@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {"debugServer": ,
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayExamples",
+            "request": "launch",
+            "mainClass": "ArrayExamples",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Buzz",
+            "request": "launch",
+            "mainClass": "Buzz",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardTable",
+            "request": "launch",
+            "mainClass": "CardTable",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convert",
+            "request": "launch",
+            "mainClass": "Convert",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Drawing",
+            "request": "launch",
+            "mainClass": "Drawing",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Echo",
+            "request": "launch",
+            "mainClass": "Echo",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Eights",
+            "request": "launch",
+            "mainClass": "Eights",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise",
+            "request": "launch",
+            "mainClass": "Exercise",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Format",
+            "request": "launch",
+            "mainClass": "Format",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Goodbye",
+            "request": "launch",
+            "mainClass": "Goodbye",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessStarter",
+            "request": "launch",
+            "mainClass": "GuessStarter",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Histogram",
+            "request": "launch",
+            "mainClass": "Histogram",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Logarithm",
+            "request": "launch",
+            "mainClass": "Logarithm",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch MakeDubMus",
+            "request": "launch",
+            "mainClass": "MakeDubMus",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max",
+            "request": "launch",
+            "mainClass": "Max",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mickey",
+            "request": "launch",
+            "mainClass": "Mickey",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Moire",
+            "request": "launch",
+            "mainClass": "Moire",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewLine",
+            "request": "launch",
+            "mainClass": "NewLine",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch PointRect",
+            "request": "launch",
+            "mainClass": "PointRect",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTime",
+            "request": "launch",
+            "mainClass": "PrintTime",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTwice",
+            "request": "launch",
+            "mainClass": "PrintTwice",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursive",
+            "request": "launch",
+            "mainClass": "Recursive",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Riddle",
+            "request": "launch",
+            "mainClass": "Riddle",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerBug",
+            "request": "launch",
+            "mainClass": "ScannerBug",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "Search",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Series",
+            "request": "launch",
+            "mainClass": "Series",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsThings",
+            "request": "launch",
+            "mainClass": "StringsThings",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tables",
+            "request": "launch",
+            "mainClass": "Tables",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimeClient",
+            "request": "launch",
+            "mainClass": "TimeClient",
+            "projectName": "ThinkJavaCode_68c74177"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "ThinkJavaCode_68c74177"
+        }
+    ]
+}
